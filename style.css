@@ -211,7 +211,7 @@ body {
 
 
 
-@media (min-width: 315px) and (max-width: 784px) {
+@media (min-width: 784px) {
     .main__content {
         display: flex;
         flex-direction: column;
