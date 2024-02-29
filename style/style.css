@@ -94,11 +94,10 @@ body {
 
 
 .main__menu {
-    overflow-x: scroll;
-    width: 776px;
-    height: 40px;
-    white-space: nowrap;
     display: flex;
+    overflow: auto;
+    gap: 20px;
+    white-space: nowrap; 
     align-items: center;
 }
 
