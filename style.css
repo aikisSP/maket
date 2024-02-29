@@ -181,7 +181,7 @@ body {
     display: inline-block;
     width: 8px;
     height: 11px;
-    background-image: url(/style/img/icon.svg);
+    background-image: url(./style/img/icon.svg);
     background-size: cover;
     background-repeat: no-repeat;
     margin-right: 5px;
